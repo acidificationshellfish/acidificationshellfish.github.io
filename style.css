@@ -1,0 +1,20 @@
+html {
+	scroll-behavior:smooth;
+  	scrollbar-width:none;
+}
+header {
+  	align-content:right;
+	position:fixed;
+  	top:0;
+  	width:100%;
+	padding:5px 0px 5px 15px;
+  	background-color:#b7b7b7;
+}
+body {
+  	margin-top:125px;
+}
+div.centered{
+  	max-width:750px;
+  	margin:auto;
+  	padding:150px 25px 150px 25px;
+}
