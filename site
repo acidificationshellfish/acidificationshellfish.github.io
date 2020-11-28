@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <title>Acidification+Shellfish</title>
+    <meta name="description" content="Ocean acidification and shellfish">
+  	<meta name="keywords" content="Ocean, Acidification, Shellfish, Mollusks, Clam, Oyster, CO2">
+  	<meta name="author" content="Theodosia Chen">
+  </head>
+  <header>
+    <h1>
+      Acidification+Shellfish
+    </h1>
+  </header>
+  <body>
+    <div class="centered" id="SectionA">
+      What is acidification (chemical process)
+    </div>
+    <div class="centered" id="SectionB">
+      What is a calcifier (what chemical they need)
+    </div>
+    <div class="centered" id="SectionC">
+      How acidification affects calcifiers
+    </div>
+    <div class="centered" id="SectionD">
+      Effect #1
+    </div>
+    <div class="centered" id="SectionE">
+      Effect #2
+    </div>
+    <div class="centered" id="SectionF">
+      Effect #3
+    </div>
+    <div class="centered" id="SectionG">
+      Inability to find linear trends
+    </div>
+    <div class="centered" id="SectionH">
+      Effect on predators
+    </div>
+    <div class="centered" id="SectionI">
+      Summary
+    </div>
+    <div class="centered" id="SectionJ">
+      More information
+    </div>
+  </body>
+</html>
