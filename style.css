@@ -21,6 +21,15 @@ ul{
 li a:hover {
   background-color: #111;
 }
-#content{
+div.content{
+  	height:100%;
 	margin-top:100px;
+}
+div.centralized{
+  	margin: 0;
+  	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	-ms-transform: translate(-50%, -50%);
+  	transform: translate(-50%, -50%);
 }
