@@ -8,7 +8,7 @@ body{
   	background-attachment:fixed;
   	background-size:cover;
 }
-#header{
+.header{
   	overflow:hidden;
 	position: fixed;
 	top: 0;
