@@ -1,0 +1,26 @@
+html{
+	scrollbar-width:none;
+  	scroll-behavior:smooth;
+}
+body{
+	background-image: url(https://images.unsplash.com/photo-1536211880782-dd4fab03d94a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1934&q=80);
+  	background-repeat:no-repeat;
+  	background-attachment:fixed;
+  	background-size:cover;
+}
+#header{
+  	overflow:hidden;
+	position: fixed;
+	top: 0;
+	width: 100%;
+  	background-color:#FFFFFF;
+}
+ul{
+	height:65px;
+}
+li a:hover {
+  background-color: #111;
+}
+#content{
+	margin-top:100px;
+}
