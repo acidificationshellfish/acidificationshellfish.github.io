@@ -8,6 +8,10 @@ body{
   	background-attachment:fixed;
   	background-size:cover;
 }
+a{
+	color:#b2b2b2;
+  	text-decoration:none;
+}
 ul.theheader{
   	overflow:hidden;
 	position: fixed;
@@ -16,10 +20,11 @@ ul.theheader{
   	background-color:#FFFFFF;
 }
 ul{
-	height:65px;
+	height:75px;
+  
 }
-li a:hover {
-  background-color: #111;
+a:hover {
+  color: #111;
 }
 div.contentate{
   	height:100%;
@@ -32,4 +37,7 @@ div.centralized{
   	left: 50%;
   	-ms-transform: translate(-50%, -50%);
   	transform: translate(-50%, -50%);
+}
+i.spacering{
+	letter-spacing:3px;
 }
