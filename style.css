@@ -16,6 +16,7 @@ a{
 }
 ul.theheader{
   	overflow:hidden;
+  	position:fixed;
 	top: 0;
 	width: 100%;
   	background-color:#FFFFFF;
@@ -34,7 +35,7 @@ div.contentate{
 div.centralized{
   	margin: 0;
   	position: absolute;
-  	top: 50%;
+  	top: 90%;
   	left: 50%;
   	-ms-transform: translate(-50%, -50%);
   	transform: translate(-50%, -50%);
