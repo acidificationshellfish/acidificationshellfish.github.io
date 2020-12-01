@@ -31,7 +31,9 @@ a:hover {
 div.contentate{
   	height:100%;
   	margin-top:150px;
-  	margin-bottom:50px;
+  	margin-bottom:75px;
+  	padding-left:200px;
+  	padding-right:200px;
 }
 i.spacering{
 	letter-spacing:3px;
