@@ -30,10 +30,11 @@ a:hover {
 }
 div.contentate{
   	height:100%;
-  	margin-top:150px;
+  	margin-top:115px;
   	margin-bottom:75px;
   	padding-left:200px;
   	padding-right:200px;
+	opacity:0.98;
 }
 i.spacering{
 	letter-spacing:3px;
